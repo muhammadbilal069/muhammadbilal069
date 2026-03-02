@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Bilal Khan</h1>
+<h3 align="center">Frontend Developer | Learning Backend 🚀</h3>
 
-<!--
-**muhammadbilal069/muhammadbilal069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+CSS+JavaScript+Expert;Learning+Backend+Development;Building+Modern+Web+Apps" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Frontend Developer (HTML, CSS, JavaScript, Bootstrap)
+- 🌱 Currently Learning Backend Development
+- 🔥 Passionate about building modern & responsive websites
+- 📂 5+ Projects Completed
+- 🎯 Goal: Become Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
+</p>
+
+---
+
+## 📌 My Projects
+
+| Project Name | Description | Live Demo |
+|-------------|------------|-----------|
+| Portfolio Website | Professional animated portfolio | [View](#) |
+| Landing Page | Responsive modern landing page | [View](#) |
+| Grid & Flexbox Layout | Layout practice project | [View](#) |
+
+(Links apne GitHub projects ke laga dena)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ "Code. Create. Innovate." ⚡</p>
