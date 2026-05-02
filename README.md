@@ -36,14 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadBilalKhan&theme=tokyonight&row=1&no-frame=true"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,14 +54,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBilalKhan&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
