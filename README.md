@@ -15,7 +15,7 @@
 * 🌱 Preparing to learn Backend Development
 * 🔥 Passionate about building responsive and user-friendly web applications
 * 🎯 Goal: Become a Full Stack JavaScript Developer
-* 🌐 Portfolio: https://your-portfolio-link.com
+* 🌐 Portfolio: https://muhammadbilal069.github.io/personal-portfolio/
 * 📍 Based in Pakistan
 
 ---
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="muhammadbilalkhan1120@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
