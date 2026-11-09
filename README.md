@@ -1,71 +1,88 @@
+
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Khan</h1>
 
-<h3 align="center">Frontend Developer | Future Full Stack JavaScript Developer 🚀</h3>
+<h3 align="center">Full Stack JavaScript Developer | MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Learning+Backend+Development;Building+Modern+Web+Applications;Future+Full+Stack+JavaScript+Developer" />
+  Building responsive and user-friendly web applications.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+JavaScript+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Always+Learning+and+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-* 💻 Frontend Developer focused on modern web development
-* ⚡ Skilled in HTML, CSS, JavaScript, Bootstrap, and React
-* 🌱 Preparing to learn Backend Development
-* 🔥 Passionate about building responsive and user-friendly web applications
-* 🎯 Goal: Become a Full Stack JavaScript Developer
-* 🌐 Portfolio: https://muhammadbilal069.github.io/personal-portfolio/
-* 📍 Based in Pakistan
+- Full Stack JavaScript Developer trained at Saylani Mass IT Training (SMIT).
+- Interested in developing modern and responsive web applications.
+- Working with React.js, Next.js, Node.js, Express.js, and MongoDB.
+- Experienced in building REST APIs, database integration, and reusable UI components through practical projects.
+- Focused on clean code, problem-solving, and continuous learning.
+- Portfolio: [View Portfolio](https://muhammadbilal069.github.io/personal-portfolio/)
 
 ---
 
-# 🧰 Tech Stack
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,github,vscode,postman" alt="Technologies and Tools" />
+</p>
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT, bcrypt
+- **Tools:** Git, GitHub, VS Code, Postman
+- **Deployment:** Vercel, Netlify
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadbilal069&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilal069&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilalKhan&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilalKhan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadBilalKhan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=muhammadbilal069&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBilalKhan&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadbilal069&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-# 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-bilal-khan-804a2b398/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="muhammadbilalkhan1120@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/muhammad-bilal-khan-804a2b398/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:muhammadbilalkhan1120@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/muhammadbilal069">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ Always Learning • Always Building • Always Improving 🚀</b>
+  <b>Building • Learning • Improving</b>
 </p>
